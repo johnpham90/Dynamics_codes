@@ -36,4 +36,5 @@ function getSubgrid(executionContext){
     var gridRows = gridContect.getGrid().getRows();
 
     console.log(gridRows);
-}                                                                                                           
+    alert(gridRows);
+}                                                                                                          
